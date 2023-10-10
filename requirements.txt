@@ -39,7 +39,7 @@ launch-xml==0.10.6
 launch-yaml==0.10.6
 osrf-pycommon==0.1.11
 quality-of-service-demo-py==0.9.3
-requests==2.27.1
+requests==2.31.0
 ros2action==0.9.10
 ros2bag==0.3.8
 ros2cli==0.9.10
