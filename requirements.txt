@@ -6,7 +6,7 @@ ament-cppcheck==0.9.6
 ament-cpplint==0.9.6
 ament-flake8==0.9.6
 ament-index-python==1.1.0
-ament-lint==0.9.6
+ament-lint==0.14.2
 ament-lint-cmake==0.9.6
 ament-mypy==0.9.6
 ament-package==0.9.5
