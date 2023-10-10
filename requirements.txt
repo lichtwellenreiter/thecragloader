@@ -1,6 +1,6 @@
 action-tutorials-py==0.9.3
 ament-clang-format==0.9.6
-ament-clang-tidy==0.9.6
+ament-clang-tidy==0.14.2
 ament-copyright==0.9.6
 ament-cppcheck==0.9.6
 ament-cpplint==0.9.6
