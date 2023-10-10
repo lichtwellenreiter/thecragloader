@@ -12,7 +12,7 @@ ament-mypy==0.9.6
 ament-package==0.9.5
 ament-pclint==0.9.6
 ament-pep257==0.9.6
-ament-pycodestyle==0.9.6
+ament-pycodestyle==0.14.2
 ament-pyflakes==0.9.6
 ament-uncrustify==0.9.6
 ament-xmllint==0.9.6
