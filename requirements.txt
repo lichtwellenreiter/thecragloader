@@ -19,7 +19,7 @@ ament-xmllint==0.14.2
 beautifulsoup4==4.12.2
 bs4==0.0.1
 certifi==2021.10.8
-charset-normalizer==2.1.1
+charset-normalizer==3.3.0
 demo-nodes-py==0.9.3
 domain-coordinator==0.9.2
 examples-rclpy-executors==0.9.4
