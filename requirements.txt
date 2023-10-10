@@ -37,7 +37,7 @@ launch-testing==0.10.6
 launch-testing-ros==0.11.4
 launch-xml==0.10.6
 launch-yaml==0.10.6
-osrf-pycommon==0.1.11
+osrf-pycommon==0.2.1
 quality-of-service-demo-py==0.9.3
 requests==2.27.1
 ros2action==0.9.10
