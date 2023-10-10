@@ -75,7 +75,7 @@ rqt-srv==1.0.3
 rqt-top==1.0.2
 rqt-topic==1.2.2
 sensor-msgs-py==2.0.4
-soupsieve==2.3.2.post1
+soupsieve==2.5
 sros2==0.9.4
 test-launch-ros==0.11.4
 topic-monitor==0.9.3
