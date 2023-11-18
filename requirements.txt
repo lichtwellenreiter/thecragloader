@@ -18,7 +18,7 @@ ament-uncrustify==0.9.6
 ament-xmllint==0.14.2
 beautifulsoup4==4.12.2
 bs4==0.0.1
-certifi==2023.7.22
+certifi==2023.11.17
 charset-normalizer==3.3.0
 demo-nodes-py==0.9.3
 domain-coordinator==0.9.2
