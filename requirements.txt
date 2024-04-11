@@ -30,7 +30,7 @@ examples-rclpy-minimal-publisher==0.9.4
 examples-rclpy-minimal-service==0.9.4
 examples-rclpy-minimal-subscriber==0.9.4
 examples-tf2-py==0.13.12
-idna==3.4
+idna==3.7
 launch==0.10.6
 launch-ros==0.11.4
 launch-testing==0.10.6
