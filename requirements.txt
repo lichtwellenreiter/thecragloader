@@ -17,7 +17,7 @@ ament-pyflakes==0.9.6
 ament-uncrustify==0.9.6
 ament-xmllint==0.14.2
 beautifulsoup4==4.12.3
-bs4==0.0.1
+bs4==0.0.2
 certifi==2024.2.2
 charset-normalizer==3.3.2
 demo-nodes-py==0.9.3
